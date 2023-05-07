@@ -20,6 +20,14 @@ Instructions:
 1 - Download 'amblight_2.m' and 'Amb_Light_PPG.txt' files.
 2 - Store both files in the same folder and run 'amblight_2.m'
 
+'dst_algorithm_1.m'
+The program was developed to replicate MASIMO's DST algorithm on a synthetically created data.
+The program utilizes synthetically produced PPG signal data with added noise, allowing for comprehensive practice and analysis.
+
+Instructions:
+1 - Download 'dst_algorithm_1.m' and 'Amb_Light_PPG.txt' files.
+2 - Store both files in the same folder and run 'dst_algorithm_1.m'
+
 =============================================================================================================
 
 Experimental Program(s)

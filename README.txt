@@ -1,6 +1,8 @@
 Author: Omer Hakan Yaran
-New Jersey Institute of Technology, 2021
+New Jersey Institute of Technology
 Advisor: Moshe Kam
+
+Academic year of 2021 - 2022
 
 =============================================================================================================
 

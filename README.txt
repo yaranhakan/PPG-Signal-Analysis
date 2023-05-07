@@ -2,6 +2,10 @@ Author: Omer Hakan Yaran
 New Jersey Institute of Technology
 Advisor: Moshe Kam
 
+Special Thanks:
+Ludvik Alkhoury, PhD
+Jiwon Choi, PhD
+
 Academic year of 2021 - 2022
 
 =============================================================================================================
